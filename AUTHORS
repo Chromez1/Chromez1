@@ -1,0 +1,16 @@
+# Names should be added to this file with this pattern:
+#
+# For individuals:
+#   Name <email address>
+#
+# For organizations:
+#   Organization <fnmatch pattern>
+#
+# See python fnmatch module documentation for more information.
+#
+# Please keep the list sorted.
+
+# BEGIN individuals section.
+Carlo <venostfm@outlook.com>
+# Please DO NOT APPEND here. See comments at the top of the file.
+# END organizations section.

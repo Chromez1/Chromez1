@@ -1,0 +1,7 @@
+# This file is used by git-cl to get repostitory specific information.
+PROJECT: chromez
+GERRIT_HOST: True
+CC_LIST: 
+VIEW_VC: 
+STATUS: 
+RUN_POST_UPLOAD_HOOK: True
